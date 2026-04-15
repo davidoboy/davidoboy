@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Now playing](https://gist.githubusercontent.com/davidoboy/95969ca99f4a6d7473aa8c83cd766436/raw/now-playing.svg)
 <!--
 **davidoboy/davidoboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
